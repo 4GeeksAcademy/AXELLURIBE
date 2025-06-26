@@ -1,0 +1,44 @@
+#div1 {
+	width: 150px;
+    place-items: center;
+   background-color: rgb(209, 209, 209);
+    align-items: center;
+float: center;
+	height: 180px;
+	padding: 150px;
+	text-align: center;
+   justify-content: center;
+	
+}
+body{
+text-align: center;
+background-color: rgb(196, 196, 196);
+}
+#div2 {
+width: 150px;
+    place-items: center;
+   background-color: rgb(209, 209, 209);
+    align-items: center;
+float: center;
+	height: 180px;
+	padding: 150px;
+	text-align: center;
+    justify-content: center;
+	 } 
+     #div3 {
+width: 150px;
+    place-items: center;
+   background-color: rgb(209, 209, 209);
+    align-items: center;
+float: center;
+	height: 180px;
+	padding: 150px;
+	text-align: center;
+    justify-content: center;
+	 } 
+     #contenedor{
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+      } 
